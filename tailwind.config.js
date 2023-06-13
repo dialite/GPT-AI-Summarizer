@@ -1,6 +1,5 @@
 module.exports = {
-  purge: ["./src/**/*.{html,js,jsx}"],
-  darkMode: false, // or 'media' or 'class'
+  content: ["./public/**/*.html", "./src/**/*.{js,jsx,ts,tsx,vue}"],
   theme: {
     extend: {
       fontFamily: {
@@ -8,9 +7,6 @@ module.exports = {
         inter: ["Inter", "sans-serif"],
       },
     },
-  },
-  variants: {
-    extend: {},
   },
   plugins: [],
 };
