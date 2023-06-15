@@ -9,7 +9,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() => {
-            window.open("https://github.com/dialite");
+            window.open("https://github.com/dialite/GPT-AI-Summarizer.git");
           }}
           className="black_btn"
         >
