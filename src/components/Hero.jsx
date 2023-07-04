@@ -13,7 +13,7 @@ const Hero = () => {
           }}
           className="black_btn"
         >
-          GitHubs
+          GitHub
         </button>
       </nav>
 
