@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [GPT-AI-Summarizer ](#gpt-ai-summarizer-)
+- [Sumz ](#Sumz-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -20,7 +20,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# GPT-AI-Summarizer <a name="hello-rails-react"></a>
+# Sumz <a name="hello-rails-react"></a>
 
 This is an app with React, Redux, Tailwind CSS, Vite, and OpenAI. Generates article summaries from links or text inputs, leveraging OpenAI's powerful language model. Enhances comprehension and productivity with concise and accurate summaries.
 [Live Demo](https://ai-gpt-4-content-summarizer.netlify.app/).
@@ -41,7 +41,7 @@ This is an app with React, Redux, Tailwind CSS, Vite, and OpenAI. Generates arti
 
 ### Key Features <a name="key-features"></a>
 
-- Displays all GPT-AI-Summarizer
+- Displays all Sumz
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -51,14 +51,14 @@ This is an app with React, Redux, Tailwind CSS, Vite, and OpenAI. Generates arti
 
 ### Prerequisites
 
-In order to run this project you need
+To run this project you need
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```
-  git clone https://github.com/dialite/GPT-AI-Summarizer.git
+  git clone https://github.com/dialite/Sumz.git
 ```
 
 ### Install
@@ -129,7 +129,7 @@ If you like this project and want to support me make cooler projects Give this p
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse community.
+I would like to thank the initiators of this project that gave inspiration.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
